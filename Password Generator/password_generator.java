@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class password_manager {
+public class password_generator {
     public static void main(String[] args) {
         Random rand = new Random();
 
